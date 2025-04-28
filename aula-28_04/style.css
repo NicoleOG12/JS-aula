@@ -1,0 +1,19 @@
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #000000;
+    height: 100vh;
+    padding: 8px;
+    position: relative;
+    margin: 0;
+  }
+
+.Titulo{
+
+}
+
+.Campo{
+    
+}
