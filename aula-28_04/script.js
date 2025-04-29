@@ -19,7 +19,7 @@ function logar(){
     let lg = document.querySelector("#login").value
     let sn = document.querySelector("#pass").value
 
-    for(let i=0; i<ds.length; i++){
+    for(let i=0; i < ds.length; i++){
         if(lg == ds[i].login && sn == ds[i].senha){
             console.log("Seu login é:" + ds[i].login + "\n Seu nome é:" + ds[i].nome)
             alert("logou")
